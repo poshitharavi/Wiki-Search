@@ -1,0 +1,6 @@
+framework module Pods_Wiki_Search_Wiki_SearchUITests {
+  umbrella header "Pods-Wiki Search-Wiki SearchUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
